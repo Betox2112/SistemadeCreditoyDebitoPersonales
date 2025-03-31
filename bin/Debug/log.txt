@@ -1,0 +1,9 @@
+31-03-2025 02:50:25 - Usuario: Sistema - Acción: Programa iniciado
+31-03-2025 02:50:55 - Usuario: Beto - Acción: Inicio de sesión exitoso
+31-03-2025 02:51:32 - Usuario: Beto - Acción: Cliente registrado: 402190121
+31-03-2025 02:51:39 - Usuario: Beto - Acción: Consulta de lista de clientes realizada
+31-03-2025 02:51:41 - Usuario: Beto - Acción: Consulta de clientes deudores: No hay deudores
+31-03-2025 02:51:48 - Usuario: Beto - Acción: Cliente encontrado por cédula: 402190121
+31-03-2025 02:51:56 - Usuario: Beto - Acción: Clientes guardados en archivo
+31-03-2025 02:52:02 - Usuario: Beto - Acción: Sesión cerrada
+31-03-2025 02:52:04 - Usuario: Sistema - Acción: Programa iniciado
