@@ -1,0 +1,28 @@
+C:\Users\pepot\Downloads\Proyecto Progra2\SistemadeCreditoyDebitoPersonales\bin\Debug\SistemadeCreditoyDebidoPersonales.exe.config
+C:\Users\pepot\Downloads\Proyecto Progra2\SistemadeCreditoyDebitoPersonales\bin\Debug\SistemadeCreditoyDebidoPersonales.exe
+C:\Users\pepot\Downloads\Proyecto Progra2\SistemadeCreditoyDebitoPersonales\bin\Debug\SistemadeCreditoyDebidoPersonales.pdb
+C:\Users\pepot\Downloads\Proyecto Progra2\SistemadeCreditoyDebitoPersonales\obj\Debug\SistemadeCreditoyDebidoPersonales.csproj.AssemblyReference.cache
+C:\Users\pepot\Downloads\Proyecto Progra2\SistemadeCreditoyDebitoPersonales\obj\Debug\SistemadeCreditoyDebidoPersonales.csproj.CoreCompileInputs.cache
+C:\Users\pepot\Downloads\Proyecto Progra2\SistemadeCreditoyDebitoPersonales\obj\Debug\SistemadeCreditoyDebidoPersonales.exe
+C:\Users\pepot\Downloads\Proyecto Progra2\SistemadeCreditoyDebitoPersonales\obj\Debug\SistemadeCreditoyDebidoPersonales.pdb
+C:\Users\pepot\Downloads\Proyecto Progra2\SistemadeCreditoyDebidoPersonales\bin\Debug\SistemadeCreditoyDebidoPersonales.exe.config
+C:\Users\pepot\Downloads\Proyecto Progra2\SistemadeCreditoyDebidoPersonales\bin\Debug\SistemadeCreditoyDebidoPersonales.exe
+C:\Users\pepot\Downloads\Proyecto Progra2\SistemadeCreditoyDebidoPersonales\bin\Debug\SistemadeCreditoyDebidoPersonales.pdb
+C:\Users\pepot\Downloads\Proyecto Progra2\SistemadeCreditoyDebidoPersonales\obj\Debug\SistemadeCreditoyDebidoPersonales.csproj.AssemblyReference.cache
+C:\Users\pepot\Downloads\Proyecto Progra2\SistemadeCreditoyDebidoPersonales\obj\Debug\SistemadeCreditoyDebidoPersonales.csproj.CoreCompileInputs.cache
+C:\Users\pepot\Downloads\Proyecto Progra2\SistemadeCreditoyDebidoPersonales\obj\Debug\SistemadeCreditoyDebidoPersonales.exe
+C:\Users\pepot\Downloads\Proyecto Progra2\SistemadeCreditoyDebidoPersonales\obj\Debug\SistemadeCreditoyDebidoPersonales.pdb
+C:\Users\PROGRAMACION\Downloads\SistemadeCreditoyDebitoPersonales-main\bin\Debug\SistemadeCreditoyDebidoPersonales.exe.config
+C:\Users\PROGRAMACION\Downloads\SistemadeCreditoyDebitoPersonales-main\bin\Debug\SistemadeCreditoyDebidoPersonales.exe
+C:\Users\PROGRAMACION\Downloads\SistemadeCreditoyDebitoPersonales-main\bin\Debug\SistemadeCreditoyDebidoPersonales.pdb
+C:\Users\PROGRAMACION\Downloads\SistemadeCreditoyDebitoPersonales-main\obj\Debug\SistemadeCreditoyDebidoPersonales.csproj.AssemblyReference.cache
+C:\Users\PROGRAMACION\Downloads\SistemadeCreditoyDebitoPersonales-main\obj\Debug\SistemadeCreditoyDebidoPersonales.csproj.CoreCompileInputs.cache
+C:\Users\PROGRAMACION\Downloads\SistemadeCreditoyDebitoPersonales-main\obj\Debug\SistemadeCreditoyDebidoPersonales.exe
+C:\Users\PROGRAMACION\Downloads\SistemadeCreditoyDebitoPersonales-main\obj\Debug\SistemadeCreditoyDebidoPersonales.pdb
+C:\Users\pepot\Downloads\Proyecto Progra2 Final\SistemadeCreditoyDebitoPersonales-main\obj\Debug\SistemadeCreditoyDebidoPersonales.csproj.AssemblyReference.cache
+C:\Users\pepot\Downloads\Proyecto Progra2 Final\SistemadeCreditoyDebitoPersonales-main\obj\Debug\SistemadeCreditoyDebidoPersonales.csproj.CoreCompileInputs.cache
+C:\Users\pepot\Downloads\Proyecto Progra2 Final\SistemadeCreditoyDebitoPersonales-main\bin\Debug\SistemadeCreditoyDebidoPersonales.exe.config
+C:\Users\pepot\Downloads\Proyecto Progra2 Final\SistemadeCreditoyDebitoPersonales-main\bin\Debug\SistemadeCreditoyDebidoPersonales.exe
+C:\Users\pepot\Downloads\Proyecto Progra2 Final\SistemadeCreditoyDebitoPersonales-main\bin\Debug\SistemadeCreditoyDebidoPersonales.pdb
+C:\Users\pepot\Downloads\Proyecto Progra2 Final\SistemadeCreditoyDebitoPersonales-main\obj\Debug\SistemadeCreditoyDebidoPersonales.exe
+C:\Users\pepot\Downloads\Proyecto Progra2 Final\SistemadeCreditoyDebitoPersonales-main\obj\Debug\SistemadeCreditoyDebidoPersonales.pdb

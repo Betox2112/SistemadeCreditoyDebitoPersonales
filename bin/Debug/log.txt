@@ -1,0 +1,437 @@
+31-03-2025 02:50:25 - Usuario: Sistema - Acción: Programa iniciado
+31-03-2025 02:50:55 - Usuario: Beto - Acción: Inicio de sesión exitoso
+31-03-2025 02:51:32 - Usuario: Beto - Acción: Cliente registrado: 402190121
+31-03-2025 02:51:39 - Usuario: Beto - Acción: Consulta de lista de clientes realizada
+31-03-2025 02:51:41 - Usuario: Beto - Acción: Consulta de clientes deudores: No hay deudores
+31-03-2025 02:51:48 - Usuario: Beto - Acción: Cliente encontrado por cédula: 402190121
+31-03-2025 02:51:56 - Usuario: Beto - Acción: Clientes guardados en archivo
+31-03-2025 02:52:02 - Usuario: Beto - Acción: Sesión cerrada
+31-03-2025 02:52:04 - Usuario: Sistema - Acción: Programa iniciado
+01-04-2025 09:21:13 - Usuario: Sistema - Acción: Programa iniciado
+01-04-2025 09:21:26 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (1/3) para usuario: Beto
+01-04-2025 09:21:36 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (2/3) para usuario: Beto
+01-04-2025 09:22:07 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (3/3) para usuario: Beto
+01-04-2025 09:22:08 - Usuario: Sistema - Acción: Demasiados intentos fallidos, bloqueo temporal
+01-04-2025 09:22:38 - Usuario: Sistema - Acción: Opción inválida seleccionada en autenticación
+01-04-2025 09:22:50 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (1/3) para usuario: Beto
+01-04-2025 09:22:53 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (2/3) para usuario: 
+01-04-2025 09:22:57 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (3/3) para usuario: bETO
+01-04-2025 09:22:57 - Usuario: Sistema - Acción: Demasiados intentos fallidos, bloqueo temporal
+01-04-2025 09:23:03 - Usuario: Sistema - Acción: Programa iniciado
+01-04-2025 09:23:29 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (1/3) para usuario: Beto
+01-04-2025 09:23:45 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (2/3) para usuario: Beto
+01-04-2025 09:23:48 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (3/3) para usuario: 
+01-04-2025 09:23:48 - Usuario: Sistema - Acción: Demasiados intentos fallidos, bloqueo temporal
+01-04-2025 09:23:53 - Usuario: Sistema - Acción: Programa iniciado
+01-04-2025 09:24:25 - Usuario: Sistema - Acción: Programa iniciado
+01-04-2025 09:24:51 - Usuario: Beto - Acción: Usuario registrado con éxito
+01-04-2025 09:24:56 - Usuario:  - Acción: Sesión cerrada
+01-04-2025 09:24:56 - Usuario: Sistema - Acción: Programa iniciado
+01-04-2025 09:25:05 - Usuario: Sistema - Acción: Programa iniciado
+01-04-2025 09:25:15 - Usuario: Beto - Acción: Inicio de sesión exitoso
+01-04-2025 09:26:54 - Usuario: Beto - Acción: Cliente registrado: 402190121
+01-04-2025 09:27:11 - Usuario: Beto - Acción: Consulta de lista de clientes realizada
+01-04-2025 09:27:34 - Usuario: Beto - Acción: Sesión cerrada
+01-04-2025 09:27:35 - Usuario: Sistema - Acción: Programa iniciado
+01-04-2025 09:27:55 - Usuario: Beto - Acción: Inicio de sesión exitoso
+01-04-2025 09:28:23 - Usuario: Beto - Acción: Sesión cerrada
+01-04-2025 09:28:24 - Usuario: Sistema - Acción: Programa iniciado
+01-04-2025 09:28:53 - Usuario: Beto - Acción: Inicio de sesión exitoso
+01-04-2025 09:29:03 - Usuario: Beto - Acción: Consulta de lista de clientes realizada
+01-04-2025 09:29:13 - Usuario: Beto - Acción: Consulta de lista de clientes realizada
+01-04-2025 09:29:21 - Usuario: Beto - Acción: Consulta de clientes deudores: No hay deudores
+01-04-2025 09:29:28 - Usuario: Beto - Acción: Cliente encontrado por cédula: 402190121
+01-04-2025 09:29:45 - Usuario: Beto - Acción: Intento de registro de crédito fallido, cliente no encontrado: Tarjeta
+01-04-2025 09:30:03 - Usuario: Beto - Acción: Crédito registrado: Tarjeta para cliente 402190121
+01-04-2025 09:30:20 - Usuario: Beto - Acción: Consulta de créditos existentes realizada
+01-04-2025 09:30:28 - Usuario: Beto - Acción: Consulta de créditos existentes realizada
+01-04-2025 09:30:58 - Usuario: Beto - Acción: Crédito usado: Tarjeta, Monto: ₡250000
+01-04-2025 09:31:38 - Usuario: Beto - Acción: Crédito cerrado: Tarjeta para cliente 402190121
+01-04-2025 09:31:56 - Usuario: Beto - Acción: Consulta de créditos existentes realizada
+01-04-2025 09:32:57 - Usuario: Beto - Acción: Débito registrado: Carro para cliente 402190121
+01-04-2025 09:33:07 - Usuario: Beto - Acción: Consulta de débitos existentes realizada
+01-04-2025 09:33:23 - Usuario: Beto - Acción: Consulta de débitos existentes realizada
+01-04-2025 09:33:34 - Usuario: Beto - Acción: Débito marcado como pagado: Carro para cliente 402190121
+01-04-2025 09:33:37 - Usuario: Beto - Acción: Consulta de débitos existentes realizada
+01-04-2025 09:34:05 - Usuario: Beto - Acción: Préstamo registrado para cliente 402190121, Monto: ₡1500000
+01-04-2025 09:34:28 - Usuario: Beto - Acción: Consulta de préstamos existentes realizada
+01-04-2025 09:34:50 - Usuario: Sistema - Acción: Pago mensual registrado para préstamo de 402190121, Cuota: ₡128411,22268270075854134595755
+01-04-2025 09:34:50 - Usuario: Beto - Acción: Pago mensual registrado para préstamo de cliente 402190121, Cuota: ₡128411,22268270075854134595755
+01-04-2025 09:35:25 - Usuario: Beto - Acción: Consulta de estado de préstamo para cliente 402190121
+01-04-2025 09:35:33 - Usuario: Beto - Acción: Consulta de lista de clientes realizada
+01-04-2025 09:35:47 - Usuario: Beto - Acción: Consulta de clientes deudores realizada
+01-04-2025 09:35:54 - Usuario: Beto - Acción: Consulta de clientes deudores realizada
+01-04-2025 09:36:59 - Usuario: Beto - Acción: Programa cerrado
+01-04-2025 09:42:48 - Usuario: Sistema - Acción: Programa iniciado
+01-04-2025 09:42:57 - Usuario: Beto - Acción: Inicio de sesión exitoso
+01-04-2025 09:43:03 - Usuario: Beto - Acción: Consulta de lista de clientes: No hay clientes registrados
+01-04-2025 09:43:37 - Usuario: Beto - Acción: Programa cerrado
+01-04-2025 09:44:13 - Usuario: Sistema - Acción: Programa iniciado
+01-04-2025 09:44:22 - Usuario: Beto - Acción: Inicio de sesión exitoso
+01-04-2025 09:45:17 - Usuario: Beto - Acción: Cliente registrado: 402190121
+01-04-2025 09:45:24 - Usuario: Beto - Acción: Consulta de lista de clientes realizada
+01-04-2025 09:45:33 - Usuario: Beto - Acción: Cliente encontrado por cédula: 402190121
+01-04-2025 09:45:45 - Usuario: Beto - Acción: Consulta de créditos: No hay créditos registrados
+01-04-2025 09:46:05 - Usuario: Beto - Acción: Crédito registrado: Tarjeta para cliente 402190121
+01-04-2025 09:46:13 - Usuario: Beto - Acción: Consulta de créditos existentes realizada
+01-04-2025 09:47:02 - Usuario: Beto - Acción: Débito registrado: Pagos para cliente 402190121
+01-04-2025 09:51:05 - Usuario: Beto - Acción: Crédito usado: Tarjeta, Monto: ₡100000
+01-04-2025 09:52:13 - Usuario: Sistema - Acción: Programa iniciado
+01-04-2025 09:52:20 - Usuario: Sistema - Acción: Programa iniciado
+01-04-2025 09:52:25 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (1/3) para usuario: bETO
+01-04-2025 09:52:26 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (2/3) para usuario: 
+01-04-2025 09:52:29 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (3/3) para usuario: bETO
+01-04-2025 09:52:29 - Usuario: Sistema - Acción: Demasiados intentos fallidos, bloqueo temporal
+01-04-2025 09:52:33 - Usuario: Sistema - Acción: Programa iniciado
+01-04-2025 09:52:45 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (1/3) para usuario: Beto
+01-04-2025 09:53:32 - Usuario: Beto - Acción: Inicio de sesión exitoso
+01-04-2025 09:54:22 - Usuario: Beto - Acción: Cliente registrado: 402190121
+01-04-2025 09:56:07 - Usuario: Beto - Acción: Crédito registrado: Tarejta para cliente 402190121
+01-04-2025 10:26:26 - Usuario: Sistema - Acción: Programa iniciado
+01-04-2025 10:36:17 - Usuario: Sistema - Acción: Programa iniciado
+01-04-2025 10:37:30 - Usuario: Sistema - Acción: Programa iniciado
+01-04-2025 10:38:22 - Usuario: Beto - Acción: Inicio de sesión exitoso
+01-04-2025 10:38:37 - Usuario: Beto - Acción: Sesión cerrada
+01-04-2025 10:38:38 - Usuario: Sistema - Acción: Programa iniciado
+01-04-2025 10:38:47 - Usuario: Beto - Acción: Inicio de sesión exitoso
+01-04-2025 10:38:52 - Usuario: Beto - Acción: Consulta de lista de clientes: No hay clientes registrados
+01-04-2025 10:40:42 - Usuario: Beto - Acción: Cliente registrado: 112290813
+01-04-2025 10:40:55 - Usuario: Beto - Acción: Consulta de clientes deudores: No hay deudores
+01-04-2025 10:41:01 - Usuario: Beto - Acción: Consulta de lista de clientes realizada
+01-04-2025 10:41:22 - Usuario: Beto - Acción: Cliente registrado: tres
+01-04-2025 10:41:25 - Usuario: Beto - Acción: Consulta de lista de clientes realizada
+01-04-2025 10:41:43 - Usuario: Beto - Acción: Búsqueda de cliente fallida, cédula no encontrada: 11220813
+01-04-2025 10:41:52 - Usuario: Beto - Acción: Cliente encontrado por cédula: 112290813
+01-04-2025 10:42:31 - Usuario: Beto - Acción: Crédito registrado: casa  para cliente 112290813
+01-04-2025 10:42:44 - Usuario: Beto - Acción: Opción inválida seleccionada en gestión de créditos: 32
+01-04-2025 10:43:01 - Usuario: Beto - Acción: Intento de uso de crédito fallido, crédito no encontrado o no activo: 10000002
+01-04-2025 10:43:07 - Usuario: Beto - Acción: Opción inválida seleccionada en gestión de créditos: 
+01-04-2025 10:43:42 - Usuario: Beto - Acción: Intento de uso de crédito fallido, monto excede límite: casa 
+01-04-2025 10:44:02 - Usuario: Beto - Acción: Crédito usado: casa , Monto: ₡2
+01-04-2025 10:44:40 - Usuario: Beto - Acción: Intento de cierre de crédito fallido, crédito no encontrado o ya cerrado: 1122908132
+01-04-2025 10:51:11 - Usuario: Sistema - Acción: Programa iniciado
+01-04-2025 11:10:34 - Usuario: Sistema - Acción: Programa iniciado
+07-04-2025 02:41:04 - Usuario: Sistema - Acción: Programa iniciado
+07-04-2025 02:41:17 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (1/3) para usuario: Beto
+07-04-2025 02:41:24 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (2/3) para usuario: Beto
+07-04-2025 02:41:28 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (3/3) para usuario: beto
+07-04-2025 02:41:29 - Usuario: Sistema - Acción: Demasiados intentos fallidos, bloqueo temporal
+07-04-2025 02:41:47 - Usuario: Sistema - Acción: Programa iniciado
+07-04-2025 02:45:24 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (1/3) para usuario: beto
+07-04-2025 02:45:27 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (2/3) para usuario: 
+07-04-2025 02:45:34 - Usuario: Sistema - Acción: Programa iniciado
+07-04-2025 02:46:01 - Usuario: beto - Acción: Usuario registrado con éxito
+07-04-2025 02:46:11 - Usuario:  - Acción: Consulta de lista de clientes: No hay clientes registrados
+07-04-2025 02:46:13 - Usuario:  - Acción: Consulta de clientes deudores: No hay deudores
+07-04-2025 02:46:15 - Usuario:  - Acción: Búsqueda de cliente fallida, cédula no encontrada: 
+07-04-2025 02:46:21 - Usuario:  - Acción: Intento de cierre de crédito fallido, crédito no encontrado o ya cerrado: 
+07-04-2025 02:46:39 - Usuario:  - Acción: Consulta de estado de préstamo fallida, no encontrado: 
+07-04-2025 02:46:44 - Usuario:  - Acción: Clientes guardados en archivo
+07-04-2025 02:46:48 - Usuario:  - Acción: Datos cargados desde archivo correctamente
+07-04-2025 02:46:51 - Usuario:  - Acción: Sesión cerrada
+07-04-2025 02:46:52 - Usuario: Sistema - Acción: Programa iniciado
+07-04-2025 02:47:07 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (1/3) para usuario: beto
+07-04-2025 02:47:13 - Usuario: beto - Acción: Inicio de sesión exitoso
+07-04-2025 02:47:16 - Usuario: beto - Acción: Programa cerrado
+07-04-2025 03:55:25 - Usuario: Sistema - Acción: Programa iniciado
+07-04-2025 03:55:25 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 0 clientes encontrados
+07-04-2025 03:55:25 - Usuario: Sistema - Acción: No se encontró el archivo creditos.txt al iniciar, comenzando con lista vacía
+07-04-2025 03:55:25 - Usuario: Sistema - Acción: No se encontró el archivo debitos.txt al iniciar, comenzando con lista vacía
+07-04-2025 03:55:25 - Usuario: Sistema - Acción: No se encontró el archivo prestamos.txt al iniciar, comenzando con lista vacía
+07-04-2025 03:55:44 - Usuario: beto - Acción: Inicio de sesión exitoso
+07-04-2025 03:56:33 - Usuario: beto - Acción: Cliente registrado: 402190121
+07-04-2025 03:56:39 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+07-04-2025 03:56:40 - Usuario: beto - Acción: Consulta de clientes deudores: No hay deudores
+07-04-2025 03:56:47 - Usuario: beto - Acción: Cliente encontrado por cédula: 402190121
+07-04-2025 03:57:08 - Usuario: beto - Acción: Crédito registrado: Tarjeta para cliente 402190121
+07-04-2025 03:57:43 - Usuario: beto - Acción: Débito registrado: Prestamo para cliente 402190121
+07-04-2025 03:57:50 - Usuario: beto - Acción: Todos los datos guardados en archivos
+07-04-2025 03:57:55 - Usuario: beto - Acción: Guardando todos los datos antes de cerrar el programa
+07-04-2025 03:57:55 - Usuario: beto - Acción: Programa cerrado
+07-04-2025 03:58:02 - Usuario: Sistema - Acción: Programa iniciado
+07-04-2025 03:58:02 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 1 clientes encontrados
+07-04-2025 03:58:02 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 1 créditos encontrados
+07-04-2025 03:58:02 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 1 débitos encontrados
+07-04-2025 03:58:02 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+07-04-2025 03:58:20 - Usuario: beto - Acción: Inicio de sesión exitoso
+07-04-2025 03:58:24 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+07-04-2025 03:59:11 - Usuario: beto - Acción: Cliente registrado: 777777
+07-04-2025 03:59:16 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+07-04-2025 03:59:21 - Usuario: beto - Acción: Guardando todos los datos antes de cerrar el programa
+07-04-2025 03:59:21 - Usuario: beto - Acción: Programa cerrado
+07-04-2025 03:59:27 - Usuario: Sistema - Acción: Programa iniciado
+07-04-2025 03:59:27 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+07-04-2025 03:59:27 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 1 créditos encontrados
+07-04-2025 03:59:27 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 1 débitos encontrados
+07-04-2025 03:59:28 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+07-04-2025 09:47:58 - Usuario: Sistema - Acción: Programa iniciado
+07-04-2025 09:47:58 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+07-04-2025 09:47:58 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 1 créditos encontrados
+07-04-2025 09:47:58 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 1 débitos encontrados
+07-04-2025 09:47:58 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+07-04-2025 09:48:08 - Usuario: beto - Acción: Inicio de sesión exitoso
+07-04-2025 09:49:14 - Usuario: beto - Acción: Guardando todos los datos antes de cerrar el programa
+07-04-2025 09:49:14 - Usuario: beto - Acción: Programa cerrado
+08-04-2025 09:45:00 - Usuario: Sistema - Acción: Programa iniciado
+08-04-2025 09:45:00 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+08-04-2025 09:45:00 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 1 créditos encontrados
+08-04-2025 09:45:00 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 1 débitos encontrados
+08-04-2025 09:45:00 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+08-04-2025 09:45:21 - Usuario: beto - Acción: Inicio de sesión exitoso
+08-04-2025 09:45:31 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+08-04-2025 09:50:52 - Usuario: Sistema - Acción: Programa iniciado
+08-04-2025 09:50:52 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+08-04-2025 09:50:52 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 1 créditos encontrados
+08-04-2025 09:50:52 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 1 débitos encontrados
+08-04-2025 09:50:52 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+08-04-2025 09:51:02 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (1/3) para usuario: beto
+08-04-2025 09:51:08 - Usuario: beto - Acción: Inicio de sesión exitoso
+08-04-2025 09:51:17 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+08-04-2025 09:51:55 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+08-04-2025 09:52:05 - Usuario: beto - Acción: Consulta de clientes deudores: No hay deudores
+08-04-2025 09:52:15 - Usuario: beto - Acción: Consulta de débitos existentes realizada
+08-04-2025 09:54:36 - Usuario: Sistema - Acción: Programa iniciado
+08-04-2025 09:54:36 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+08-04-2025 09:54:36 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 1 créditos encontrados
+08-04-2025 09:54:36 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 1 débitos encontrados
+08-04-2025 09:54:36 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+08-04-2025 09:54:43 - Usuario: beto - Acción: Inicio de sesión exitoso
+08-04-2025 09:55:16 - Usuario: beto - Acción: Crédito registrado: Tarjeta para cliente 402190121
+08-04-2025 09:55:28 - Usuario: beto - Acción: Guardando todos los datos antes de cerrar el programa
+08-04-2025 09:55:28 - Usuario: beto - Acción: Programa cerrado
+08-04-2025 10:04:05 - Usuario: Sistema - Acción: Programa iniciado
+08-04-2025 10:04:05 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+08-04-2025 10:04:05 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 2 créditos encontrados
+08-04-2025 10:04:05 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 1 débitos encontrados
+08-04-2025 10:04:05 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+08-04-2025 10:04:18 - Usuario: beto - Acción: Inicio de sesión exitoso
+08-04-2025 10:04:31 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+08-04-2025 10:04:57 - Usuario: beto - Acción: Crédito registrado: Servicios para cliente 402190121
+08-04-2025 10:05:18 - Usuario: beto - Acción: Crédito usado: Tarjeta, Monto: ₡10000
+08-04-2025 10:05:54 - Usuario: beto - Acción: Consulta de créditos existentes realizada
+08-04-2025 10:07:24 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+08-04-2025 10:07:39 - Usuario: beto - Acción: Consulta de créditos existentes realizada
+08-04-2025 10:10:56 - Usuario: beto - Acción: Consulta de débitos existentes realizada
+08-04-2025 10:11:03 - Usuario: beto - Acción: Consulta de débitos existentes realizada
+08-04-2025 10:17:22 - Usuario: Sistema - Acción: Programa iniciado
+08-04-2025 10:17:22 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+08-04-2025 10:17:22 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 3 créditos encontrados
+08-04-2025 10:17:22 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 1 débitos encontrados
+08-04-2025 10:17:22 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+08-04-2025 10:29:33 - Usuario: Sistema - Acción: Programa iniciado
+08-04-2025 10:29:33 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+08-04-2025 10:29:33 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 3 créditos encontrados
+08-04-2025 10:29:33 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 1 débitos encontrados
+08-04-2025 10:29:33 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+08-04-2025 10:32:24 - Usuario: beto - Acción: Inicio de sesión exitoso
+08-04-2025 10:32:31 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+08-04-2025 10:32:46 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+08-04-2025 10:32:49 - Usuario: beto - Acción: Consulta de clientes deudores: No hay deudores
+08-04-2025 10:32:56 - Usuario: beto - Acción: Cliente encontrado por cédula: 402190121
+08-04-2025 10:37:10 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+08-04-2025 10:37:58 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+08-04-2025 11:15:42 - Usuario: Sistema - Acción: Programa iniciado
+08-04-2025 11:15:42 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+08-04-2025 11:15:42 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 3 créditos encontrados
+08-04-2025 11:15:42 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 1 débitos encontrados
+08-04-2025 11:15:42 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+08-04-2025 11:16:23 - Usuario: Sistema - Acción: Programa iniciado
+08-04-2025 11:16:23 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+08-04-2025 11:16:23 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 3 créditos encontrados
+08-04-2025 11:16:23 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 1 débitos encontrados
+08-04-2025 11:16:23 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+08-04-2025 12:39:25 - Usuario: Sistema - Acción: Programa iniciado
+08-04-2025 12:39:25 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+08-04-2025 12:39:25 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 3 créditos encontrados
+08-04-2025 12:39:25 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 1 débitos encontrados
+08-04-2025 12:39:25 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+08-04-2025 12:39:48 - Usuario: beto - Acción: Inicio de sesión exitoso
+08-04-2025 12:40:28 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+08-04-2025 12:40:55 - Usuario: beto - Acción: Todos los datos guardados en archivos
+08-04-2025 12:41:52 - Usuario: beto - Acción: Sesión cerrada
+08-04-2025 12:41:53 - Usuario: Sistema - Acción: Programa iniciado
+08-04-2025 12:41:53 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+08-04-2025 12:41:53 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 3 créditos encontrados
+08-04-2025 12:41:53 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 1 débitos encontrados
+08-04-2025 12:41:53 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+08-04-2025 12:42:05 - Usuario: beto - Acción: Inicio de sesión exitoso
+08-04-2025 12:42:52 - Usuario: beto - Acción: Guardando todos los datos antes de cerrar el programa
+08-04-2025 12:42:52 - Usuario: beto - Acción: Programa cerrado
+21-04-2025 13:52:55 - Usuario: Sistema - Acción: Programa iniciado
+21-04-2025 13:52:55 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+21-04-2025 13:52:55 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 3 créditos encontrados
+21-04-2025 13:52:55 - Usuario: Sistema - Acción: Error al cargar débitos desde archivo: Línea con datos incompletos
+21-04-2025 13:52:55 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 0 débitos encontrados
+21-04-2025 13:52:55 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+21-04-2025 13:53:05 - Usuario: beto - Acción: Inicio de sesión exitoso
+21-04-2025 13:56:15 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+21-04-2025 13:56:34 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+21-04-2025 13:56:56 - Usuario: beto - Acción: Opción inválida seleccionada en gestión de créditos: 
+21-04-2025 13:57:04 - Usuario: beto - Acción: Intento de edición de crédito fallido, ID no encontrado o no activo: 1
+21-04-2025 13:57:10 - Usuario: beto - Acción: Consulta de créditos existentes realizada
+21-04-2025 13:57:32 - Usuario: beto - Acción: Intento de edición de crédito fallido, ID inválido
+21-04-2025 13:57:44 - Usuario: beto - Acción: Consulta de débitos: No hay débitos registrados
+21-04-2025 13:57:57 - Usuario: beto - Acción: Consulta de préstamos: No hay préstamos registrados
+21-04-2025 17:04:45 - Usuario: Sistema - Acción: Programa iniciado
+21-04-2025 17:04:45 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+21-04-2025 17:04:45 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 3 créditos encontrados
+21-04-2025 17:04:45 - Usuario: Sistema - Acción: Error al cargar débitos desde archivo: Línea con datos incompletos
+21-04-2025 17:04:45 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 0 débitos encontrados
+21-04-2025 17:04:45 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+21-04-2025 17:05:02 - Usuario: Sistema - Acción: Intento de registro fallido, usuario ya existe: beto
+21-04-2025 17:05:15 - Usuario: Sistema - Acción: Programa iniciado
+21-04-2025 17:05:15 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+21-04-2025 17:05:15 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 3 créditos encontrados
+21-04-2025 17:05:15 - Usuario: Sistema - Acción: Error al cargar débitos desde archivo: Línea con datos incompletos
+21-04-2025 17:05:15 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 0 débitos encontrados
+21-04-2025 17:05:15 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+21-04-2025 17:05:23 - Usuario: beto - Acción: Inicio de sesión exitoso
+21-04-2025 17:05:27 - Usuario: beto - Acción: Consulta de clientes deudores: No hay deudores
+21-04-2025 17:05:29 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+21-04-2025 17:07:46 - Usuario: Sistema - Acción: Programa iniciado
+21-04-2025 17:07:46 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 0 clientes encontrados
+21-04-2025 17:07:46 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 0 créditos encontrados
+21-04-2025 17:07:46 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 0 débitos encontrados
+21-04-2025 17:07:46 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+21-04-2025 17:07:53 - Usuario: beto - Acción: Inicio de sesión exitoso
+21-04-2025 17:10:14 - Usuario: beto - Acción: Cliente registrado: 777777777
+21-04-2025 17:11:44 - Usuario: beto - Acción: Cliente registrado: 888888888
+21-04-2025 17:11:49 - Usuario: beto - Acción: Consulta de clientes deudores: No hay deudores
+21-04-2025 17:11:52 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+21-04-2025 17:12:02 - Usuario: beto - Acción: Error al guardar en archivos: No se puede implementar el método o la operación.
+21-04-2025 17:12:11 - Usuario: beto - Acción: Error al guardar en archivos: No se puede implementar el método o la operación.
+21-04-2025 17:27:56 - Usuario: Sistema - Acción: Programa iniciado
+21-04-2025 17:27:56 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+21-04-2025 17:27:56 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 0 créditos encontrados
+21-04-2025 17:27:56 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 0 débitos encontrados
+21-04-2025 17:27:56 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+21-04-2025 17:28:05 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (1/3) para usuario: beto
+21-04-2025 17:28:12 - Usuario: Sistema - Acción: Intento de inicio de sesión fallido (2/3) para usuario: beto
+21-04-2025 17:28:23 - Usuario: beto - Acción: Inicio de sesión exitoso
+21-04-2025 17:28:27 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+21-04-2025 17:28:34 - Usuario: beto - Acción: Clientes guardados en clientes.txt: 2 clientes
+21-04-2025 17:28:40 - Usuario: beto - Acción: Clientes guardados en clientes.txt: 2 clientes
+21-04-2025 17:28:44 - Usuario: beto - Acción: Datos cargados desde archivos correctamente
+21-04-2025 17:33:02 - Usuario: Sistema - Acción: Programa iniciado
+21-04-2025 17:33:02 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+21-04-2025 17:33:02 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 0 créditos encontrados
+21-04-2025 17:33:02 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 0 débitos encontrados
+21-04-2025 17:33:02 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+21-04-2025 17:33:10 - Usuario: beto - Acción: Inicio de sesión exitoso
+21-04-2025 17:33:13 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+21-04-2025 17:33:16 - Usuario: beto - Acción: Clientes guardados en clientes.txt: 2 clientes
+21-04-2025 17:33:18 - Usuario: beto - Acción: Datos cargados desde archivos correctamente
+21-04-2025 17:33:22 - Usuario: beto - Acción: Sesión cerrada
+21-04-2025 17:33:24 - Usuario: Sistema - Acción: Programa iniciado
+21-04-2025 17:33:24 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+21-04-2025 17:33:24 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 0 créditos encontrados
+21-04-2025 17:33:24 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 0 débitos encontrados
+21-04-2025 17:33:24 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+21-04-2025 17:46:32 - Usuario: Sistema - Acción: Programa iniciado
+21-04-2025 17:46:32 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+21-04-2025 17:46:32 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 0 créditos encontrados
+21-04-2025 17:46:32 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 0 débitos encontrados
+21-04-2025 17:46:32 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+21-04-2025 17:46:56 - Usuario: beto - Acción: Inicio de sesión exitoso
+21-04-2025 17:46:59 - Usuario: beto - Acción: Consulta de clientes deudores: No hay deudores
+21-04-2025 17:47:09 - Usuario: Sistema - Acción: Programa iniciado
+21-04-2025 17:47:09 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+21-04-2025 17:47:09 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 0 créditos encontrados
+21-04-2025 17:47:09 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 0 débitos encontrados
+21-04-2025 17:47:09 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+21-04-2025 17:47:16 - Usuario: beto - Acción: Inicio de sesión exitoso
+21-04-2025 17:47:20 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+21-04-2025 17:47:24 - Usuario: beto - Acción: Clientes guardados en clientes.txt: 2 clientes
+21-04-2025 17:47:24 - Usuario: beto - Acción: Todos los datos guardados en archivos
+21-04-2025 17:47:32 - Usuario: beto - Acción: Datos cargados desde archivos correctamente
+21-04-2025 18:13:52 - Usuario: Sistema - Acción: Programa iniciado
+21-04-2025 18:13:52 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+21-04-2025 18:13:52 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 0 créditos encontrados
+21-04-2025 18:13:52 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 0 débitos encontrados
+21-04-2025 18:13:52 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+21-04-2025 18:17:10 - Usuario: beto - Acción: Inicio de sesión exitoso
+21-04-2025 18:17:12 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+21-04-2025 18:17:18 - Usuario: beto - Acción: Clientes guardados en clientes.txt: 2 clientes
+21-04-2025 18:17:18 - Usuario: beto - Acción: Créditos guardados en creditos.txt: 0 créditos
+21-04-2025 18:17:18 - Usuario: beto - Acción: Débitos guardados en debitos.txt: 0 débitos
+21-04-2025 18:17:18 - Usuario: beto - Acción: Préstamos guardados en prestamos.txt: 0 préstamos
+21-04-2025 18:17:18 - Usuario: beto - Acción: Todos los datos guardados en archivos
+21-04-2025 18:17:21 - Usuario: beto - Acción: Datos cargados desde archivos correctamente
+21-04-2025 18:17:34 - Usuario: beto - Acción: Cliente encontrado por cédula: 777777777
+21-04-2025 18:17:47 - Usuario: beto - Acción: Búsqueda de cliente fallida, cédula no encontrada: 88888888
+21-04-2025 18:17:51 - Usuario: beto - Acción: Consulta de clientes deudores: No hay deudores
+21-04-2025 18:17:54 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+21-04-2025 18:18:03 - Usuario: beto - Acción: Cliente encontrado por cédula: 888888888
+21-04-2025 18:19:17 - Usuario: Sistema - Acción: Programa iniciado
+21-04-2025 18:19:17 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+21-04-2025 18:19:17 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 0 créditos encontrados
+21-04-2025 18:19:17 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 0 débitos encontrados
+21-04-2025 18:19:17 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+21-04-2025 18:19:25 - Usuario: beto - Acción: Inicio de sesión exitoso
+21-04-2025 18:19:27 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+21-04-2025 18:19:29 - Usuario: beto - Acción: Consulta de clientes deudores: No hay deudores
+21-04-2025 18:19:35 - Usuario: beto - Acción: Cliente encontrado por cédula: 777777777
+21-04-2025 18:20:24 - Usuario: beto - Acción: Crédito guardado en creditos.txt: Tarjeta
+21-04-2025 18:20:24 - Usuario: beto - Acción: Crédito registrado: Tarjeta para cliente 777777777
+21-04-2025 18:21:13 - Usuario: beto - Acción: Créditos guardados en creditos.txt: 1 créditos
+21-04-2025 18:21:13 - Usuario: beto - Acción: Crédito editado: ID 1
+21-04-2025 18:21:22 - Usuario: beto - Acción: Consulta de créditos existentes realizada
+21-04-2025 18:21:49 - Usuario: beto - Acción: Crédito guardado en creditos.txt: Tarjeta
+21-04-2025 18:21:49 - Usuario: beto - Acción: Crédito registrado: Tarjeta para cliente 777777777
+21-04-2025 18:21:52 - Usuario: beto - Acción: Consulta de créditos existentes realizada
+21-04-2025 18:22:18 - Usuario: beto - Acción: Clientes guardados en clientes.txt: 2 clientes
+21-04-2025 18:22:18 - Usuario: beto - Acción: Créditos guardados en creditos.txt: 2 créditos
+21-04-2025 18:22:18 - Usuario: beto - Acción: Débitos guardados en debitos.txt: 0 débitos
+21-04-2025 18:22:18 - Usuario: beto - Acción: Préstamos guardados en prestamos.txt: 0 préstamos
+21-04-2025 18:22:18 - Usuario: beto - Acción: Todos los datos guardados en archivos
+21-04-2025 18:22:21 - Usuario: beto - Acción: Datos cargados desde archivos correctamente
+21-04-2025 18:28:19 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+21-04-2025 18:28:38 - Usuario: Sistema - Acción: Programa iniciado
+21-04-2025 18:28:38 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+21-04-2025 18:28:38 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 2 créditos encontrados
+21-04-2025 18:28:38 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 0 débitos encontrados
+21-04-2025 18:28:38 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 0 préstamos encontrados
+21-04-2025 18:28:49 - Usuario: beto - Acción: Inicio de sesión exitoso
+21-04-2025 18:28:52 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+21-04-2025 18:28:57 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+21-04-2025 18:29:31 - Usuario: beto - Acción: Débito registrado: Pagos (ID: 1) para cliente 777777777
+21-04-2025 18:29:37 - Usuario: beto - Acción: Consulta de débitos existentes realizada
+21-04-2025 18:30:10 - Usuario: beto - Acción: Débito registrado: Comida (ID: 2) para cliente 777777777
+21-04-2025 18:30:17 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+21-04-2025 18:30:50 - Usuario: beto - Acción: Préstamo guardado en prestamos.txt: 777777777
+21-04-2025 18:30:50 - Usuario: beto - Acción: Préstamo registrado para cliente 777777777, Monto: ₡250000
+21-04-2025 18:31:00 - Usuario: beto - Acción: Consulta de préstamos existentes realizada
+21-04-2025 18:31:04 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+21-04-2025 18:31:11 - Usuario: beto - Acción: Consulta de clientes deudores realizada
+21-04-2025 18:31:16 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+21-04-2025 18:31:23 - Usuario: beto - Acción: Consulta de clientes deudores realizada
+21-04-2025 18:31:29 - Usuario: beto - Acción: Consulta de clientes deudores realizada
+21-04-2025 18:31:30 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+21-04-2025 18:33:28 - Usuario: beto - Acción: Clientes guardados en clientes.txt: 2 clientes
+21-04-2025 18:33:28 - Usuario: beto - Acción: Créditos guardados en creditos.txt: 2 créditos
+21-04-2025 18:33:28 - Usuario: beto - Acción: Débitos guardados en debitos.txt: 2 débitos
+21-04-2025 18:33:28 - Usuario: beto - Acción: Préstamos guardados en prestamos.txt: 1 préstamos
+21-04-2025 18:33:28 - Usuario: beto - Acción: Todos los datos guardados en archivos
+21-04-2025 18:33:30 - Usuario: beto - Acción: Guardando todos los datos antes de cerrar el programa
+21-04-2025 18:33:30 - Usuario: beto - Acción: Clientes guardados en clientes.txt: 2 clientes
+21-04-2025 18:33:30 - Usuario: beto - Acción: Créditos guardados en creditos.txt: 2 créditos
+21-04-2025 18:33:30 - Usuario: beto - Acción: Débitos guardados en debitos.txt: 2 débitos
+21-04-2025 18:33:30 - Usuario: beto - Acción: Préstamos guardados en prestamos.txt: 1 préstamos
+21-04-2025 18:33:30 - Usuario: beto - Acción: Programa cerrado
+21-04-2025 20:26:01 - Usuario: Sistema - Acción: Programa iniciado
+21-04-2025 20:26:01 - Usuario: Sistema - Acción: Clientes cargados automáticamente al iniciar: 2 clientes encontrados
+21-04-2025 20:26:01 - Usuario: Sistema - Acción: Créditos cargados automáticamente al iniciar: 2 créditos encontrados
+21-04-2025 20:26:01 - Usuario: Sistema - Acción: Débitos cargados automáticamente al iniciar: 2 débitos encontrados
+21-04-2025 20:26:01 - Usuario: Sistema - Acción: Préstamos cargados automáticamente al iniciar: 1 préstamos encontrados
+21-04-2025 20:26:08 - Usuario: beto - Acción: Inicio de sesión exitoso
+21-04-2025 20:26:12 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+21-04-2025 20:26:52 - Usuario: beto - Acción: Crédito guardado en creditos.txt: Gasolina
+21-04-2025 20:26:52 - Usuario: beto - Acción: Crédito registrado: Gasolina (ID: 3) para cliente 777777777
+21-04-2025 20:27:40 - Usuario: beto - Acción: Débito registrado: Abono (ID: 3) para cliente 777777777
+21-04-2025 20:27:46 - Usuario: beto - Acción: Consulta de lista de clientes realizada
+21-04-2025 20:28:17 - Usuario: beto - Acción: Clientes guardados en clientes.txt: 2 clientes
+21-04-2025 20:28:17 - Usuario: beto - Acción: Créditos guardados en creditos.txt: 3 créditos
+21-04-2025 20:28:17 - Usuario: beto - Acción: Débitos guardados en debitos.txt: 3 débitos
+21-04-2025 20:28:17 - Usuario: beto - Acción: Préstamos guardados en prestamos.txt: 1 préstamos
+21-04-2025 20:28:17 - Usuario: beto - Acción: Todos los datos guardados en archivos
+21-04-2025 20:28:20 - Usuario: beto - Acción: Datos cargados desde archivos correctamente

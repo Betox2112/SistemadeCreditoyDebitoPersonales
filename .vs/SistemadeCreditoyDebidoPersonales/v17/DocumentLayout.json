@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\control\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|solutionrelative:control\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\control\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|solutionrelative:control\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|c:\\users\\pepot\\downloads\\proyecto progra2 final\\sistemadecreditoydebitopersonales-main\\control\\credito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|solutionrelative:control\\credito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\vista\\vistaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|solutionrelative:vista\\vistaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\model\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|solutionrelative:model\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|solutionrelative:model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\model\\dao\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|solutionrelative:model\\dao\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\model\\dao\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|solutionrelative:model\\dao\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|c:\\users\\pepot\\downloads\\proyecto progra2 final\\sistemadecreditoydebitopersonales-main\\control\\usuariosistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|solutionrelative:control\\usuariosistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\control\\debito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8591C41-C392-4385-9D13-CF98CCEE84BB}|SistemadeCreditoyDebidoPersonales.csproj|solutionrelative:control\\debito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Debito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Credito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\UsuarioSistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 119,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioSistema.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\Control\\UsuarioSistema.cs",
+              "RelativeDocumentMoniker": "Control\\UsuarioSistema.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\Control\\UsuarioSistema.cs",
+              "RelativeToolTip": "Control\\UsuarioSistema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:21:36.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\Model\\Persona.cs",
+              "RelativeDocumentMoniker": "Model\\Persona.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\Model\\Persona.cs",
+              "RelativeToolTip": "Model\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:38:52.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Archivo.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\model\\dao\\Archivo.cs",
+              "RelativeDocumentMoniker": "model\\dao\\Archivo.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\model\\dao\\Archivo.cs",
+              "RelativeToolTip": "model\\dao\\Archivo.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:38:11.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\model\\dao\\Log.cs",
+              "RelativeDocumentMoniker": "model\\dao\\Log.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\model\\dao\\Log.cs",
+              "RelativeToolTip": "model\\dao\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:38:02.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\Control\\Prestamo.cs",
+              "RelativeDocumentMoniker": "Control\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\Control\\Prestamo.cs",
+              "RelativeToolTip": "Control\\Prestamo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:37:51.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Debito.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\Control\\Debito.cs",
+              "RelativeDocumentMoniker": "Control\\Debito.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\Control\\Debito.cs",
+              "RelativeToolTip": "Control\\Debito.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:37:42.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Credito.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\Control\\Credito.cs",
+              "RelativeDocumentMoniker": "Control\\Credito.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\Control\\Credito.cs",
+              "RelativeToolTip": "Control\\Credito.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:37:32.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\Model\\Cliente.cs",
+              "RelativeDocumentMoniker": "Model\\Cliente.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\Model\\Cliente.cs",
+              "RelativeToolTip": "Model\\Cliente.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:37:19.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vistaPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\vista\\vistaPrincipal.cs",
+              "RelativeDocumentMoniker": "vista\\vistaPrincipal.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\vista\\vistaPrincipal.cs",
+              "RelativeToolTip": "vista\\vistaPrincipal.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:35:52.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\Control\\Sistema.cs",
+              "RelativeDocumentMoniker": "Control\\Sistema.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\Control\\Sistema.cs",
+              "RelativeToolTip": "Control\\Sistema.cs",
+              "ViewState": "AgIAAGgGAAAAAAAAAAAAwAUGAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:09:41.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Log.cs",
+              "RelativeDocumentMoniker": "..\\..\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Log.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Log.cs",
+              "RelativeToolTip": "..\\..\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:19:54.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Archivo.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Archivo.cs",
+              "RelativeDocumentMoniker": "..\\..\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Archivo.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Archivo.cs",
+              "RelativeToolTip": "..\\..\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Archivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:26:04.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Prestamo.cs",
+              "RelativeDocumentMoniker": "..\\..\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Prestamo.cs",
+              "RelativeToolTip": "..\\..\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Prestamo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T20:06:08.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Debito.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Debito.cs",
+              "RelativeDocumentMoniker": "..\\..\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Debito.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Debito.cs",
+              "RelativeToolTip": "..\\..\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Debito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T20:05:45.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Credito.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Credito.cs",
+              "RelativeDocumentMoniker": "..\\..\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Credito.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Credito.cs",
+              "RelativeToolTip": "..\\..\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Credito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T20:05:18.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Persona.cs",
+              "RelativeDocumentMoniker": "..\\..\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Persona.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Persona.cs",
+              "RelativeToolTip": "..\\..\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:41:37.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Cliente.cs",
+              "RelativeDocumentMoniker": "..\\..\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Cliente.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Cliente.cs",
+              "RelativeToolTip": "..\\..\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:41:06.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsuarioSistema.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\UsuarioSistema.cs",
+              "RelativeDocumentMoniker": "..\\..\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\UsuarioSistema.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\UsuarioSistema.cs",
+              "RelativeToolTip": "..\\..\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\UsuarioSistema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:40:31.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Sistema.cs",
+              "RelativeDocumentMoniker": "..\\..\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Sistema.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Sistema.cs",
+              "RelativeToolTip": "..\\..\\Proyecto Progra2\\SistemadeCreditoyDebidoPersonales\\Sistema.cs",
+              "ViewState": "AgIAAAQEAAAAAAAAAAAAwEMEAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:40:14.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pepot\\Downloads\\Proyecto Progra2 Final\\SistemadeCreditoyDebitoPersonales-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:34:20.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

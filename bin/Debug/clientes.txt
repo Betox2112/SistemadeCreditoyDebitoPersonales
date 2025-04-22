@@ -1,0 +1,2 @@
+Carlos|Chaves|777777777|xxxxxxxx@gmail.com|Heredia|88888888|22222222|3333333|600000|Pension|200000|100000
+Damaris|Solano|888888888|xxxxxxxx@hotmail.com|Heredia|99999999|44444444|55555555|500000|Salario|120000|100000
