@@ -4,6 +4,5 @@
   * Gestiona tus créditos, débitos y préstamos de forma fácil *
   * Desarrollado por Asociados S.A.
 
-    Humberto Chaves S.
-    John Parada A.
+Humberto Chaves S. & John Parada A.
 ==========================================================
